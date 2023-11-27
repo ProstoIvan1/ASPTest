@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASPTest2.props" />
+</Project>
